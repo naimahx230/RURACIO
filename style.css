@@ -1,7 +1,6 @@
 
 body {
     margin:0;
-    font-family: Georgia, Serif;
     background: linear-gradient(to bottom, #5c3a21, #2e1c10);
     color:black;
     text-align: center;
@@ -32,18 +31,16 @@ h2 {
             color: #572a14
         }
         .jina {
-            font-family: "Cormorant Garamond", cursive;
             color: #572a14;
             text-shadow: 2px 2px 4px rgba(150, 53, 5, 0.5);
         }
 .subtitle{
-    font-family: "Sergio Trendy", cursive;
     color: #572a14;
     font-size: 20px;
     margin-top: 0;
 }
 .names {
-    font-family: "Dancing Script", cursive;
+    font-family: "Times New Roman", cursive;
     font-size: 40px;
     color: #cc4e00;
     margin:20px 0;
@@ -130,7 +127,6 @@ button:hover {
 }
 
 .event-time {
-      font-family: "Cormorant Garamond", cursive;
     font-size: 18px;
     color: #2f6f3e;
     margin-bottom: 5px;
@@ -157,4 +153,5 @@ button:hover {
 
 .map-link:hover {
     text-decoration: underline;
+
 }
