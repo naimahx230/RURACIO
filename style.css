@@ -41,7 +41,8 @@ h2 {
 }
 .names {
     font-family: "Times New Roman", cursive;
-    font-siez: 15px;
+    font-siez: 28px;
+    white-space: nowrap;
     color: #cc4e00;
     margin: 15px;
 }
@@ -167,6 +168,7 @@ button:hover {
 .calendar-link:hover {
     background: #245a32;
 }
+
 
 
 
