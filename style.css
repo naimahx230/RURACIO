@@ -41,9 +41,9 @@ h2 {
 }
 .names {
     font-family: "Times New Roman", cursive;
-    font-size: 30px;
+    font-size: 26px;
     color: #cc4e00;
-    margin: 20px;
+    margin: 15px;
 }
   .rsvp-box {
             background: transparent;
@@ -167,6 +167,7 @@ button:hover {
 .calendar-link:hover {
     background: #245a32;
 }
+
 
 
 
