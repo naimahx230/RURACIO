@@ -153,7 +153,19 @@ button:hover {
 
 .map-link:hover {
     text-decoration: underline;
-
+}
+.calendar-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 15px;
+    background: #2f6f3e;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.calendar-link:hover {
+    background: #245a32;
 }
 
 
