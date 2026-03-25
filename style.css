@@ -33,6 +33,7 @@ h2 {
             color: #572a14;
             text-shadow: 2px 2px 4px rgba(150, 53, 5, 0.5);
             font-size: 19px;
+             margin-left: 0;
         }
 .subtitle{
     color: #572a14;
